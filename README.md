@@ -10,7 +10,19 @@ This project involves the processing and analysis of scRNAseq data from 10X Geno
 - Python packages: `scanpy`, `numpy`, `pandas`, `matplotlib`, `seaborn`, `scipy`
 
 ## Installing CellRanger
-Download CellRanger from the [official 10X Genomics site](https://support.10xgenomics.com/single-cell-gene-expression/software/) and follow the installation instructions.
+
+To install CellRanger, simply execute the installation script:
+
+```bash
+bash installation_cellranger.sh
+```
+
+This script will:
+- Download CellRanger and the necessary reference datasets
+- Organize files into structured directories
+- Set up the environment automatically
+
+Ensure you have the required permissions and sufficient disk space before running the script.
 
 ## Installing Scanpy
 Install using pip:
