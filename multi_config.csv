@@ -1,0 +1,6 @@
+[gene-expression]
+reference,/data/home/aboussif/work/scRNAseq/data/refdata/refdata-gex-GRCh38-2024-A
+create-bam,true
+[libraries]
+fastq_id,fastqs,lanes,feature_types,subsample_rate
+10k_Human_DTC_Melanoma_3p_gemx_gex,/data/home/aboussif/work/scRNAseq/data/DTC/10k_Human_DTC_Melanoma_3p_gemx_fastqs,1|2|3|4,gene expression,
