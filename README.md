@@ -92,6 +92,8 @@ After obtaining the gene count matrix from Cell Ranger, proceed with the analysi
 - **Marker Genes**: Lists of genes that are differentially expressed in each cluster.
 - **Quality Control Metrics**: Summary statistics and plots for cell and gene filtering.
 
+<img src="scripts/figures/dotplot__melanoma_TME.png" alt="Dotplot — melanoma & TME" width="800">
+
 ---
 
 ## Notebooks
